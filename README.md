@@ -12,14 +12,14 @@ $ npm run dev
 # build for production and launch server
 $ npm run build
 $ npm run start
-# DEmo navigation
-$ voici les liens des pages demandé
+
+```
+
+# voici les liens des pages demandé
 
 $ Accueil : http://localhost:3000/
 $ category : http://localhost:3000/category
 $ Product page : http://localhost:3000/product
-
-```
 
 # generate static project
 
