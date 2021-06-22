@@ -2,19 +2,26 @@
   <agile :options="myOptions">
     <div
       class="
+        relative
         flex flex-col
         items-end
         text-right
         justify-center
         h-96
         bg-emerald-200
-        text-teal-500
+        text-white
         space-y-8
-        px-6
         slide
       "
     >
-      <h1 class="font-black text-3xl md:text-4xl lg:text-5xl max-w-lg">
+      <div class="absolute top-0 right-0 w-full h-full">
+        <img
+          src="/images/product6.jpg"
+          alt=""
+          class="w-full h-full object-cover"
+        />
+      </div>
+      <h1 class="font-black text-3xl md:text-4xl lg:text-5xl max-w-lg z-10">
         Suspendisse interdum rutrum nise
       </h1>
       <p
@@ -24,6 +31,7 @@
           md:text-3xl
           lg:text-4xl lg:leading-14
           font-light
+          z-10
         "
       >
         Lorem ipsum dolor sit amet consectetur adipisicing elit Vero voluptates
@@ -38,13 +46,21 @@
         justify-center
         h-96
         bg-emerald-200
-        text-teal-500
+        text-white
         space-y-8
         px-6
         slide
+        relative
       "
     >
-      <h1 class="font-black text-3xl md:text-4xl lg:text-5xl max-w-lg">
+      <div class="absolute top-0 right-0 w-full h-full">
+        <img
+          src="/images/product3.jpg"
+          alt=""
+          class="w-full h-full object-cover"
+        />
+      </div>
+      <h1 class="font-black text-3xl md:text-4xl lg:text-5xl max-w-lg z-10">
         Suspendisse interdum rutrum nise
       </h1>
       <p
@@ -54,6 +70,7 @@
           md:text-3xl
           lg:text-4xl lg:leading-14
           font-light
+          z-10
         "
       >
         Lorem ipsum dolor sit amet consectetur adipisicing elit Vero voluptates
@@ -68,17 +85,26 @@
         justify-center
         h-96
         bg-emerald-200
-        text-teal-500
+        text-white
         space-y-8
         px-6
         slide
+        relative
       "
     >
-      <h1 class="font-black text-3xl md:text-4xl lg:text-5xl max-w-lg">
+      <div class="absolute top-0 right-0 w-full h-full">
+        <img
+          src="/images/product4.jpg"
+          alt=""
+          class="w-full h-full object-cover"
+        />
+      </div>
+      <h1 class="font-black text-3xl md:text-4xl lg:text-5xl max-w-lg z-10">
         Suspendisse interdum rutrum nise
       </h1>
       <p
         class="
+          z-10
           max-w-[35ch]
           text-2xl
           md:text-3xl

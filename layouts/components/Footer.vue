@@ -123,14 +123,18 @@
         </div>
         <div class="flex-1 flex-col">
           <h3 class="text-xl font-bold">PAYMENT</h3>
-          <div class="h-20 bg-teal-500 w-full mt-6"></div>
+          <img
+            src="/images/payement.png"
+            alt=""
+            class="h-20 bg-teal-500 w-full mt-6"
+          />
 
           <div class="flex justify-center space-x-3 mt-3 flex-wrap">
-            <div class="h-7 bg-teal-500 flex-1"></div>
-            <div class="h-7 bg-teal-500 flex-1"></div>
-            <div class="h-7 bg-teal-500 flex-1"></div>
-            <div class="h-7 bg-teal-500 flex-1"></div>
-            <div class="h-7 bg-teal-500 flex-1"></div>
+            <img src="/images/card.png" alt="" class="h-7 bg-teal-500 flex-1" />
+            <img src="/images/card.png" alt="" class="h-7 bg-teal-500 flex-1" />
+            <img src="/images/card.png" alt="" class="h-7 bg-teal-500 flex-1" />
+            <img src="/images/card.png" alt="" class="h-7 bg-teal-500 flex-1" />
+            <img src="/images/card.png" alt="" class="h-7 bg-teal-500 flex-1" />
           </div>
         </div>
       </div>

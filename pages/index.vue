@@ -27,15 +27,27 @@
       "
     >
       <div class="flex items-center justify-center h-52 bg-emerald-200">
-        <i class="font-black text-2xl md:text-3xl lg:text-4xl">Banner one</i>
+        <img
+          src="/images/product1.jpg"
+          class="w-full h-full object-cover"
+          alt="product 1"
+        />
       </div>
 
       <div class="flex items-center justify-center h-52 bg-emerald-200">
-        <i class="font-black text-2xl md:text-3xl lg:text-4xl">Banner two</i>
+        <img
+          src="/images/product2.jpg"
+          class="w-full h-full object-cover"
+          alt="product 2"
+        />
       </div>
 
       <div class="flex items-center justify-center h-52 bg-emerald-200">
-        <i class="font-black text-2xl md:text-3xl lg:text-4xl">Banner three</i>
+        <img
+          src="/images/product3.jpg"
+          class="w-full h-full object-cover"
+          alt="product 3"
+        />
       </div>
     </div>
     <!-- ///////////// -->
@@ -70,7 +82,13 @@
         </h2>
       </div>
       <div class="flex flex-col items-center justify-center space-y-3">
-        <div class="bg-emerald-200 h-60 w-full"></div>
+        <div class="bg-emerald-200 h-60 w-full">
+          <img
+            src="/images/product4.jpg"
+            class="w-full h-full object-cover"
+            alt="product 1"
+          />
+        </div>
         <div class="flex justify-between text-teal-500">
           <a href="" class="flex-2 font-medium"
             >Vestibulum tincidunt tellus a metus hendrer</a
@@ -83,7 +101,13 @@
       </div>
 
       <div class="flex flex-col items-center justify-center space-y-3">
-        <div class="bg-emerald-200 h-60 w-full"></div>
+        <div class="bg-emerald-200 h-60 w-full">
+          <img
+            src="/images/product2.jpg"
+            class="w-full h-full object-cover"
+            alt="product 4"
+          />
+        </div>
         <div class="flex justify-between text-teal-500">
           <a href="" class="flex-2 font-medium"
             >Vestibulum tincidunt tellus a metus hendrer</a
@@ -96,7 +120,13 @@
       </div>
 
       <div class="flex flex-col items-center justify-center space-y-3">
-        <div class="bg-emerald-200 h-60 w-full"></div>
+        <div class="bg-emerald-200 h-60 w-full">
+          <img
+            src="/images/product5.jpg"
+            class="w-full h-full object-cover"
+            alt="product 5"
+          />
+        </div>
         <div class="flex justify-between text-teal-500">
           <a href="" class="flex-2 font-medium"
             >Vestibulum tincidunt tellus a metus hendrer</a
@@ -109,7 +139,13 @@
       </div>
 
       <div class="flex flex-col items-center justify-center space-y-3">
-        <div class="bg-emerald-200 h-60 w-full"></div>
+        <div class="bg-emerald-200 h-60 w-full">
+          <img
+            src="/images/product6.jpg"
+            class="w-full h-full object-cover"
+            alt="product image"
+          />
+        </div>
         <div class="flex justify-between text-teal-500">
           <a href="" class="flex-2 font-medium"
             >Vestibulum tincidunt tellus a metus hendrer</a
@@ -122,7 +158,7 @@
       </div>
 
       <div class="flex justify-center py-10 lg:col-span-4 md:col-span-2">
-        <a href="/products"
+        <a href="/category"
           ><img src="/images/icons/right-arrow.svg" alt="" class="w-10 h-10"
         /></a>
       </div>

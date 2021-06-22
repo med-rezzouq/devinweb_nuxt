@@ -34,12 +34,22 @@
             bg-emerald-100
             w-full
           "
-        ></div>
+        >
+          <img src="/images/product6.jpg" alt="" class="w-full h-full" />
+        </div>
         <div class="flex justify-center space-x-3 mt-3 flex-wrap">
-          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1"></div>
-          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1"></div>
-          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1"></div>
-          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1"></div>
+          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1">
+            <img src="/images/product6.jpg" alt="" class="w-full h-full" />
+          </div>
+          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1">
+            <img src="/images/product6.jpg" alt="" class="w-full h-full" />
+          </div>
+          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1">
+            <img src="/images/product6.jpg" alt="" class="w-full h-full" />
+          </div>
+          <div class="h-20 sm:h-24 md:h-32 lg:h-28 bg-emerald-100 flex-1">
+            <img src="/images/product6.jpg" alt="" class="w-full h-full" />
+          </div>
         </div>
       </div>
       <div class="flex flex-col flex-1 lg:col-span-6 self-stretch">
@@ -187,7 +197,9 @@
           </h2>
         </div>
         <div class="flex flex-col items-center justify-center space-y-3">
-          <div class="bg-emerald-200 h-60 w-full"></div>
+          <div class="bg-emerald-200 h-60 w-full">
+            <img src="/images/product1.jpg" alt="" class="w-full h-full" />
+          </div>
           <div class="flex justify-between text-teal-500">
             <a href="" class="flex-2 font-medium"
               >Vestibulum tincidunt tellus a metus hendrer</a
@@ -202,7 +214,9 @@
           </NuxtLink>
         </div>
         <div class="flex flex-col items-center justify-center space-y-3">
-          <div class="bg-emerald-200 h-60 w-full"></div>
+          <div class="bg-emerald-200 h-60 w-full">
+            <img src="/images/product2.jpg" alt="" class="w-full h-full" />
+          </div>
           <div class="flex justify-between text-teal-500">
             <a href="" class="flex-2 font-medium"
               >Vestibulum tincidunt tellus a metus hendrer</a
@@ -217,7 +231,9 @@
           </NuxtLink>
         </div>
         <div class="flex flex-col items-center justify-center space-y-3">
-          <div class="bg-emerald-200 h-60 w-full"></div>
+          <div class="bg-emerald-200 h-60 w-full">
+            <img src="/images/product3.jpg" alt="" class="w-full h-full" />
+          </div>
           <div class="flex justify-between text-teal-500">
             <a href="" class="flex-2 font-medium"
               >Vestibulum tincidunt tellus a metus hendrer</a
@@ -232,7 +248,9 @@
           </NuxtLink>
         </div>
         <div class="flex flex-col items-center justify-center space-y-3">
-          <div class="bg-emerald-200 h-60 w-full"></div>
+          <div class="bg-emerald-200 h-60 w-full">
+            <img src="/images/product4.jpg" alt="" class="w-full h-full" />
+          </div>
           <div class="flex justify-between text-teal-500">
             <a href="" class="flex-2 font-medium"
               >Vestibulum tincidunt tellus a metus hendrer</a

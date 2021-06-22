@@ -36,7 +36,9 @@ module.exports = {
         '11/12': '91.66%',
         prose: '50ch',
       },
-
+      zIndex: {
+        '-10': '-10',
+      },
       fontSize: {
         '4xl': ['40px', '56px'],
         xl: ['20px', '22px'],
