@@ -17,9 +17,9 @@ $ npm run start
 
 # voici les liens des pages demandé
 
-$ Accueil : http://localhost:3000/
-$ category : http://localhost:3000/category
-$ Product page : http://localhost:3000/product
+- Accueil : http://localhost:3000/
+- category : http://localhost:3000/category
+- Product page : http://localhost:3000/product
 
 # generate static project
 
