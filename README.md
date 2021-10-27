@@ -1,5 +1,10 @@
 # devinweb_test
 
+##Description
+
+this was a test given from a hiring company i've made it in less than 40 hours, using tailwind css utility framework.
+
+
 ## Build Setup
 
 ```bash
